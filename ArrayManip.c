@@ -45,7 +45,7 @@ for (i=0;i<size;i++) {
 //the interface to stop
 
 while (finish == false) {
-printf("What would you like to do to the array? (1) Reverse (2) Addition (3) Multiply(4) Stop\n");
+printf("What would you like to do to the array? (1) Reverse (2) Addition (3) Multiply (4) Stop\n");
 scanf("%d",&choice );
 
 
